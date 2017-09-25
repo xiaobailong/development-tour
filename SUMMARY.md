@@ -8,6 +8,7 @@
   * [人生如此](chapter1/ren-sheng-ru-ci.md)
   * [春风](chapter1/chun-feng.md)
   * [书天涯](chapter1/shu-tian-ya.md)
+  * [2016年6月29日](chapter1/2016nian-6-yue-29-ri.md)
 * [只言片语](zhi-yan-pian-yu.md)
   * [2017年1月14日](zhi-yan-pian-yu/2017nian-1-yue-14-ri.md)
   * [2016年12月25日](zhi-yan-pian-yu/2016nian-12-yue-25-ri.md)
