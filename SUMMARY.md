@@ -12,4 +12,5 @@
   * [2017年1月14日](zhi-yan-pian-yu/2017nian-1-yue-14-ri.md)
   * [2016年12月25日](zhi-yan-pian-yu/2016nian-12-yue-25-ri.md)
   * [2016年8月11日](zhi-yan-pian-yu/2016nian-8-yue-11-ri.md)
+  * [2016年8月6日](zhi-yan-pian-yu/2016nian-8-yue-6-ri.md)
 
