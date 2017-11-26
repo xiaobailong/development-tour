@@ -18,6 +18,7 @@
   * [2012年11月19日](chapter1/2012nian-11-yue-19-ri.md)
   * [2012年10月7日](chapter1/2012nian-10-yue-7-ri.md)
   * [2012年10月2日](chapter1/2012nian-10-yue-2-ri.md)
+  * [恋前程](chapter1/2012nian-9-yue-15-ri.md)
 * [只言片语](zhi-yan-pian-yu.md)
   * [2017年1月14日](zhi-yan-pian-yu/2017nian-1-yue-14-ri.md)
   * [2016年12月25日](zhi-yan-pian-yu/2016nian-12-yue-25-ri.md)
