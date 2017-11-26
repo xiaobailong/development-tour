@@ -14,6 +14,7 @@
   * [2016年2月10日](chapter1/2016nian-2-yue-10-ri.md)
   * [2015年9月29日](chapter1/2015nian-9-yue-29-ri.md)
   * [2014年10月17日](chapter1/2014nian-10-yue-17-ri.md)
+  * [2012年12月02日](2012nian-12-yue-02-ri.md)
 * [只言片语](zhi-yan-pian-yu.md)
   * [2017年1月14日](zhi-yan-pian-yu/2017nian-1-yue-14-ri.md)
   * [2016年12月25日](zhi-yan-pian-yu/2016nian-12-yue-25-ri.md)
